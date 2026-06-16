@@ -1,4 +1,5 @@
 Phenolic Single Sided Plain Copper Clad board 12 cm x 4.3 cm- 1no.
+Transformer 12-0-12 3A Rated-1no.
 1N5408 Diode -4 nos.
 4700uF 35V Electrolytic Capacitor -1 no.
 7824 Voltage regulator IC-1 no.
