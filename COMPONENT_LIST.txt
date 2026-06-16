@@ -1,0 +1,14 @@
+Phenolic Single Sided Plain Copper Clad board 12 cm x 4.3 cm- 1no.
+1N5408 Diode -4 nos.
+4700uF 35V Electrolytic Capacitor -1 no.
+7824 Voltage regulator IC-1 no.
+Heatsink TO220 Package -1no.
+2N3055 Transistor-1no.
+(Any suitable L shape Heat Sink for 2N3055 Transistor)
+1k 1watt resistor -1 nos.
+103 -Ceramic capacitor-1no.
+104 -Ceramic capacitor-1no.
+2 pin JST XH Relimate connector(RMC) Male Female pair with Wire /cable -2 nos.
+2 pin Screw terminal- 2 nos.
+SPST switch-1no.
+Led -1 no.
